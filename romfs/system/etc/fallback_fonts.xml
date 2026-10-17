@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+  <family><fileset><file>SwitchStandard.ttf</file></fileset></family>
+  <family><fileset><file>SwitchChineseSimplified.ttf</file></fileset></family>
+  <family><fileset><file>SwitchChineseExtended.ttf</file></fileset></family>
+  <family><fileset><file>SwitchChineseTraditional.ttf</file></fileset></family>
+  <family><fileset><file>SwitchKorean.ttf</file></fileset></family>
+  <family><fileset><file>SwitchNintendoExt.ttf</file></fileset></family>
+</familyset>

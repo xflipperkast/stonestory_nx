@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset>
+  <family><nameset><name>sans-serif</name><name>sans</name></nameset><fileset><file>DroidSans.ttf</file><file>DroidSans-Bold.ttf</file></fileset></family>
+  <family><nameset><name>serif</name></nameset><fileset><file>DroidSerif-Regular.ttf</file><file>DroidSerif-Bold.ttf</file><file>DroidSerif-Italic.ttf</file><file>DroidSerif-BoldItalic.ttf</file></fileset></family>
+  <family><nameset><name>monospace</name></nameset><fileset><file>DroidSansMono.ttf</file></fileset></family>
+</familyset>

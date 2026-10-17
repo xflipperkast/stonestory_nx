@@ -1,0 +1,43 @@
+{
+  "source": "https://raw.githubusercontent.com/aosp-mirror/platform_frameworks_base/android-2.3.7_r1/data/fonts/",
+  "license": "Apache-2.0",
+  "files": {
+    "DroidSans.ttf": {
+      "bytes": 190776,
+      "sha256": "f51b88945f4c1b236f44b8d55a2d304316869127e95248c435c23f1e4142a7db"
+    },
+    "DroidSans-Bold.ttf": {
+      "bytes": 194488,
+      "sha256": "2f529a3e60c007979d95d29794c3660694217fb882429fb33919d2245fe969e9"
+    },
+    "DroidSansMono.ttf": {
+      "bytes": 119380,
+      "sha256": "12b552de765dc1265d64f9f5566649930dde4dba07da0251d9f92801e70a1047"
+    },
+    "DroidSerif-Regular.ttf": {
+      "bytes": 172916,
+      "sha256": "ae32140265dbe0dfde24b9abd222be9210a531888f014ff9b2326aba2d6fd777"
+    },
+    "DroidSerif-Bold.ttf": {
+      "bytes": 185228,
+      "sha256": "c746c6383a03effbcad6ccb028e4b39e87071ff1a146a24fb2110a23e05776bb"
+    },
+    "DroidSerif-Italic.ttf": {
+      "bytes": 177560,
+      "sha256": "02c0108dea583e393fbcbec39c7093e9a3095a09d65e37fafff9a9b7a89123a4"
+    },
+    "DroidSerif-BoldItalic.ttf": {
+      "bytes": 190304,
+      "sha256": "1aba99421b31afe890182663270c28bc619f00d8746234da3dda054cd5bf09b0"
+    },
+    "NOTICE": {
+      "bytes": 10695,
+      "sha256": "38751245389e1e23f73e6f5384b5cbe7fa972cc4410c5adc9c04b082a0b9561a"
+    },
+    "README.txt": {
+      "bytes": 692,
+      "sha256": "c8b88077052fed912b3f724c0ed230c501cf4e18833af7ca44338d3cd0b093e2"
+    }
+  },
+  "fallback": "Nintendo Switch pl:u shared fonts, generated in the local cache at startup; firmware fonts are not distributed."
+}

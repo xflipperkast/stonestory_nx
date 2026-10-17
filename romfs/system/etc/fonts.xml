@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<familyset version="23">
+  <family name="sans-serif">
+    <font weight="400" style="normal">DroidSans.ttf</font>
+    <font weight="700" style="normal">DroidSans-Bold.ttf</font>
+  </family>
+  <family name="serif">
+    <font weight="400" style="normal">DroidSerif-Regular.ttf</font>
+    <font weight="700" style="normal">DroidSerif-Bold.ttf</font>
+    <font weight="400" style="italic">DroidSerif-Italic.ttf</font>
+    <font weight="700" style="italic">DroidSerif-BoldItalic.ttf</font>
+  </family>
+  <family name="monospace"><font weight="400" style="normal">DroidSansMono.ttf</font></family>
+  <family lang="ja"><font weight="400" style="normal">SwitchStandard.ttf</font></family>
+  <family lang="zh-Hans"><font weight="400" style="normal">SwitchChineseSimplified.ttf</font></family>
+  <family lang="zh-Hans"><font weight="400" style="normal">SwitchChineseExtended.ttf</font></family>
+  <family lang="zh-Hant"><font weight="400" style="normal">SwitchChineseTraditional.ttf</font></family>
+  <family lang="ko"><font weight="400" style="normal">SwitchKorean.ttf</font></family>
+  <family><font weight="400" style="normal">SwitchNintendoExt.ttf</font></family>
+</familyset>
